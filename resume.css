@@ -1,0 +1,158 @@
+h1{
+  padding-top: 20px;
+  color: green;
+  margin-left: 1;
+  text-align: center;
+}
+.cont1{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  padding-left: 30px;
+
+}
+.cont2{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction:row;
+  padding-left: 30px;
+}
+.cont3{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction:row;
+  padding-left: 30px;
+}
+.cont4{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction:row;
+  padding-left: 30px;
+}
+.pi{
+  font-size: 20px;
+  border: 2px red;
+  border-radius: 50%;
+}
+h6{
+  font-size: 15px;
+  background: radial-gradient(ellipse at center);
+}
+h6.pi1{
+  border-style: solid;
+ border-radius: 50%;
+ padding: 35px 25px;
+ background-color: teal;
+ color: white;
+ margin-left: ;
+}
+h6.pi2{
+  border-style: solid;
+ border-radius: 50%;
+ padding: 35px 25px;
+ background-color: teal;
+ color: white;
+ margin-left: ;
+}
+h6.pi3{
+  border-style: solid;
+ border-radius: 50%;
+ padding: 35px 25px;
+ background-color: teal;
+ color: white;
+ margin-left: ;
+}
+h6.pi4{
+  border-style: solid;
+ border-radius: 50%;
+ padding: 35px 25px;
+ background-color: teal;
+ color: white;
+ margin-left: ;
+}
+.intro{
+  font-size: 18px;
+  padding:50px;
+  color: black;
+  text-align: center;
+  padding-left: 350px;
+
+}
+.company{
+  font-size: 18px;
+  padding:50px;
+  color: black;
+  text-align: center;
+  padding-left: 350px;
+}
+.project{
+  font-size: 18px;
+  padding:50px;
+  color: black;
+  text-align: center;
+  padding-left: 300px;
+
+}
+.skill{
+  font-size: 20px;
+  padding:50px;
+  text-align: center;
+  padding-left: 300px;
+}
+.lang{
+  font-size: 20px;
+  padding:50px;
+  color: goldenrod;
+  text-align: center;
+  padding-left: 350px;
+}
+.fa-envelope-o:before {
+    content: "\f003";
+    color: red;
+}
+.fa-phone:before {
+    content: "\f095";
+    color: red;
+}
+.fa-map-marker:before {
+    content: "\f041";
+    color: red;
+}
+h2{
+      color: darkolivegreen;
+}
+h3.in{
+      color: crimson;
+}
+p.p1{
+  color:black;
+
+}
+p.p2{
+  color:blue;
+}
+p.p3{
+  color:green;
+}
+p.p4{
+    color: blueviolet;
+}
+p.p5{
+  color:brown;
+}
+p.p6{
+  color: yellowgreen;
+}
+p.p7{
+  color: tomato;
+}
+p.p8{
+color: teal;
+}
+p.p10{
+color: teal;
+}
+
+body{
+ background-image: url("back.jpeg");
+}
