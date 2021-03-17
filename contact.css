@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  color: green;
+}
+body{
+  background-image: url("back.jpeg");
+}
+.contact{
+  text-align: center;
+  padding-top: 50px;
+}
+.fa-envelope-o:before {
+    content: "\f003";
+    color: red;
+
+}
+.fa-phone:before {
+    content: "\f095";
+    color: red;
+}
+.fa-map-marker:before {
+    content: "\f041";
+    color: red;
+}
+.s1{
+  text-align: center;
+}
+h2{
+  color: red;
+}
+.intro{
+  color: black;
+}

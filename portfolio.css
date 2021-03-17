@@ -1,0 +1,115 @@
+*{
+  magin: 0;
+}
+.parent{
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row nowrap;
+  align-content: center;
+}
+.nav-bar{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex:1;
+  font-size: 18px;
+
+
+}
+.nav-bar > div{
+  padding:10px;
+  margin:10px;
+}
+.img1{
+  display: flex;
+  justify-content: flex-start;
+  flex: -1;
+  left: 1;
+  width: 500px;
+  border: 2px;
+  border-color: red;
+  border-radius: 60%;
+  size:40%;
+  padding-left: 40px;
+}
+.social{
+  padding:50px;
+  padding-left: 200px;
+}
+.parent1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+}
+.intro{
+  position: absolute;
+  right: 0;
+  top: 5;
+  width: 100px;
+  height: 120px;
+  box-sizing: border-box;
+  width: 50%;
+
+
+
+}
+.resume{
+  border: 2px;
+  border-color: yellow;
+  border-radius: 50%;
+  text-decoration: none;
+
+  padding-top: 200px;
+  padding-left: 200px;
+}
+.a1{
+  background-color: maroon;
+
+  color: white;
+  padding: 50px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50%;
+  padding-left: 20px;
+}
+.a2{
+  background-color: red;
+  padding: 50px 30px;
+  color: white;
+  border-radius: 70%;
+  text-decoration: none;
+  padding-left: 20px;
+}
+.a3{
+  background-color: yellowgreen;
+  padding: 50px 30px;
+  color: red;
+  border-radius: 70%;
+  text-decoration: none;
+  padding-left: 20px;
+}
+h1{
+color: darkcyan;
+  font-size: 70px;
+  padding-left: 50px;
+}
+h2{
+  color: red;
+  font-size: 50px;
+  padding-left: 50px;
+}
+.first{
+  display: flex;
+  flex-direction: row;
+}
+body{
+background-image: url("back.jpeg");
+}
+p{
+  padding-top: 50px;
+  padding-left: 220px;
+  font-size: 20px;
+}

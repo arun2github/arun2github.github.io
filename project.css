@@ -1,0 +1,53 @@
+.cont3{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction:row;
+  padding-left: 30px;
+}
+.cont4{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction:row;
+  padding-left: 30px;
+}
+.project{
+  font-size: 20px;
+  padding:50px;
+  color: black;
+  text-align: center;
+  padding-left: 300px;
+}
+h6.pi3{
+  border-style: solid;
+ border-radius: 50%;
+ padding: 20px 25px;
+ background-color: grey;
+ color: white;
+ font-size: 20px;
+}
+h1{
+  text-align: center;
+  color: red;
+}
+h4{
+  color: red;
+}
+body{
+  background-image: url("back.jpeg");
+}
+h5.pi4{
+  border-style: solid;
+  border-radius: 50%;
+ padding: 20px 25px;
+ background-color: grey;
+ color: white;
+ font-size: 20px;
+
+}
+.blog{
+  font-size: 20px;
+  padding:50px;
+  color: black;
+  text-align: center;
+  padding-left: 300px;
+}
